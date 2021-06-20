@@ -1,0 +1,4 @@
+LIBRARY DllLib
+EXPORTS
+Add @ 1
+Sub @ 2
